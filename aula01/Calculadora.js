@@ -6,7 +6,7 @@ let celcious, fahrenheit
 //Entrada de dados
 celsius = leia.questionFloat("Digite a temperatura em Celsius: ")
 
-Processamento:
+//Processamento:
 fahrenheit = (celsius * 1.8) + 32
 
 //saIda de dados
